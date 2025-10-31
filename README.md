@@ -37,7 +37,7 @@ The objective is to understand the current state of EV adoption, evaluate chargi
 ## 📊 Visualization (Power BI)
 
 **Tool:** Power BI Desktop  
-**File:** [Electric vehcile.pbix](Dashboard/Electric vehcile.pbix)  
+**File:** [Electric_vehcile.pbix](Dashboard/Electric_vehcile.pbix)  
 
 ### Dashboard Sections
 
@@ -66,7 +66,7 @@ The objective is to understand the current state of EV adoption, evaluate chargi
 - **Least Prepared State:** Washington (WA)  
 - Readiness visualized via **EV-to-Station Ratio** and **State-Level Categories (High, Moderate, Low)**.
 
-**Dashboard Report (PDF):** [Electric vehcile.pdf](Report/Electric vehcile.pdf)
+**Dashboard Report (PDF):** [Electric_vehcile.pdf](Report/Electric_vehcile.pdf)
 ** Dashboard Preview**
 <p align="center"> <img src="Images/ev1.png" width="700"><br> </p> 
 <p align="center"> <img src="Images/ev2.png" width="700"><br>> </p>
