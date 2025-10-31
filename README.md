@@ -113,7 +113,7 @@ The objective is to understand the current state of EV adoption, evaluate chargi
 📊 Data Analyst | Python | Power BI | SQL  
 📍 Srinagar, Kashmir  
 
-🔗 [LinkedIn](#) ()  
+🔗 [LinkedIn](#) (www.linkedin.com/in/insherah-majid-146496317)  
 📧 insherahmajid81@gmail.com
 
 ---
