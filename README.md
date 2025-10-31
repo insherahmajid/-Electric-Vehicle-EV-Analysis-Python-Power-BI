@@ -17,7 +17,7 @@ The objective is to understand the current state of EV adoption, evaluate chargi
 
 ##  Data Cleaning (Python)
 
-**Tool:** Jupyter Notebook (exported as `EV_cleaning.pybn`)  
+**Tool:** Jupyter Notebook (exported as `EV_cleaning.ipynb`)  
 **Libraries Used:** `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ### Key Steps:
@@ -30,14 +30,14 @@ The objective is to understand the current state of EV adoption, evaluate chargi
   - `Readiness_Category` based on percentile thresholds.
 - Exported cleaned dataset for Power BI visualization.
 
- **Notebook:** [EV_cleaning.pybn](Python/EV_cleaning.)
+ **Notebook:** [EV_cleaning.ipynb](Python/EV_cleaning.ipynb)
 
 ---
 
 ## 📊 Visualization (Power BI)
 
 **Tool:** Power BI Desktop  
-**File:** `Electric_vehicle.pbix`  
+**File:** [Electric_vehicle.pbix](Dashboard/Electric_vehicle.pbix)  
 
 ### Dashboard Sections
 
